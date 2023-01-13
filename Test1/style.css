@@ -1,10 +1,13 @@
 h1 {
-    color: blueviolet;
     background-color: blueviolet;
+    color:blue;
+    text-align: center;
+    text-transform: capitalize;
 
 
 }
 body {
     background-color: aquamarine;
+    color: brown;
 
 }
